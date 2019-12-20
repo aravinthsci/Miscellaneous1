@@ -1,1 +1,9 @@
+=============SPARK===================
+
 https://umbertogriffo.gitbook.io/apache-spark-best-practices-and-tuning/
+
+
+
+=============HIVE=======================
+
+https://cwiki.apache.org/confluence/display/Hive/LanguageManual
