@@ -1,7 +1,7 @@
 =============SPARK===================
 
 https://umbertogriffo.gitbook.io/apache-spark-best-practices-and-tuning/
-
+http://www.openkb.info/search/label/Spark
 
 
 =============HIVE=======================
