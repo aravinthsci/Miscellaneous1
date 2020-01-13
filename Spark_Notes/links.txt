@@ -4,6 +4,11 @@ https://umbertogriffo.gitbook.io/apache-spark-best-practices-and-tuning/
 http://www.openkb.info/search/label/Spark
 
 
+
+============SPARK ML==================
+
+https://github.com/aosama/MachineLearningSamples
+
 =============HIVE=======================
 
 https://cwiki.apache.org/confluence/display/Hive/LanguageManual
