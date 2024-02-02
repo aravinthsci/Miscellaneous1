@@ -12,3 +12,6 @@ https://github.com/aosama/MachineLearningSamples
 =============HIVE=======================
 
 https://cwiki.apache.org/confluence/display/Hive/LanguageManual
+
+
+https://blog.duyet.net/archives
